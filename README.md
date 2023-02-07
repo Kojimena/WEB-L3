@@ -1,6 +1,6 @@
 # WEB-L3 HTML only
 
-##Requerimientos que cumplí:
+## Requerimientos que cumplí:
 
 ```diff
 (30 puntos) [Criterio subjetivo] Según qué tan interesante sea la historía
